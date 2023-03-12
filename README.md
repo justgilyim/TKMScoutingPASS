@@ -108,7 +108,7 @@ Note: In order for this to work, the schedule has to be posted to The Blue Allia
 
 ScountingPASS now supports Pit Scouting
 
-To access the pit scouting page, add '/pit.html' to the end of your URL.  (i.e. http://pwnagerobotics.github.io/ScoutingPASS/pit.html)
+To access the pit scouting page, add '/pit.html' to the end of your URL.  (i.e. https://justgilyim.github.io/TKMScoutingPASS/pit.html)
 
 It works almost exactly like the main scouting pages, except there is only one page of input.   Once your scouters have filled out the information, swipe left to display the QR code.   That QR code can be scanned to push the data to Excel.
 
