@@ -16,7 +16,7 @@ var config_data = `
       "gsCol": "event",
       "code": "e",
       "type": "event",
-      "defaultValue": "2022ilpe",
+      "defaultValue": "2023hiho",
       "required": "true",
       "disabled": "true"
     },
